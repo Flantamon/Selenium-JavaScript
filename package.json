@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node": "^23.1.0",
+    "safaridriver": "^0.1.2",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
